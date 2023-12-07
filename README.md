@@ -6,7 +6,7 @@ The primary objective here isn't to dwell extensively on each project. Instead, 
 
 ## Projects Included:
 
-- [Project 1: Color Flipper](link-to-project) - This project showcases the implementation of arrow function syntax, resulting in cleaner and more concise code. Additionally, I optimized the code by utilizing '.onclick' instead of 'addEventListener'.
+- [Project 1: Color Flipper]([link-to-project](https://github.com/guidotognini/Vanilla-JavaScript-Projects/tree/35084e83297976e5ade386b4fbc637de4e84c873/01-color-flipper)) - This project showcases the implementation of arrow function syntax, resulting in cleaner and more concise code. Additionally, I optimized the code by utilizing '.onclick' instead of 'addEventListener'.
 - Other projects are gonna be added day by day
 
 Feel free to explore each project folder to witness the enhancements and optimizations made to the initial code snippets. This repository is a dynamic space where I'm refining my JavaScript skills and assimilating crucial concepts essential for my upcoming role as a backend developer.

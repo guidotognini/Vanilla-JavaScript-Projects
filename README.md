@@ -1,46 +1,16 @@
-# Vanilla JS Projects
+# Vanilla JavaScript Projects
 
-#### Enroll In The Course
+Welcome to the Vanilla JavaScript Projects repository! This collection of projects serves as a practical avenue for reinforcing fundamental JavaScript concepts and exploring its built-in methods. Initially inspired by a tutorial led by John Smilga ([watch it here](https://www.youtube.com/watch?v=3PHXvlpOkf4)), this repository aims to provide small, enhanced implementations based on the suggested code.
 
-[My Javascript Course](https://www.udemy.com/course/javascript-tutorial-for-beginners-w/?referralCode=DD9FA6C0D976918D3E1C)
+The primary objective here isn't to dwell extensively on each project. Instead, it's a stepping stone in my seven-week journey towards securing a junior backend developer position. I've incorporated incremental improvements to the original code, detailed and accessible within each project's codebase.
 
-#### Support
+## Projects Included:
 
-Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoffee.com/johnsmilga)
+- [Project 1: Color Flipper](https://github.com/guidotognini/Vanilla-JavaScript-Projects/tree/35084e83297976e5ade386b4fbc637de4e84c873/01-color-flipper) - This project showcases the implementation of arrow function syntax, resulting in cleaner and more concise code. Additionally, I optimized the code by utilizing '.onclick' instead of 'addEventListener'.
+- Other projects are gonna be added day by day
 
-## You can see all projects in action here
+Feel free to explore each project folder to witness the enhancements and optimizations made to the initial code snippets. This repository is a dynamic space where I'm refining my JavaScript skills and assimilating crucial concepts essential for my upcoming role as a backend developer.
 
-[Projects](https://www.vanillajavascriptprojects.com/)
+Your feedback, suggestions, or contributions are warmly welcomed! Let's embark on this learning journey together.
 
-1. Color Flipper
-2. Counter
-3. Reviews
-4. Navbar
-5. Sidebar
-6. Modal
-7. Questions
-8. Menu
-9. Video
-10. Scroll
-11. Tabs
-12. Countdown Timer
-13. Lorem Ipsum
-14. Grocery Bud
-15. Slider
-
-#### Course Exclusive
-
-16. Counters (OOP)
-17. Gallery (OOP)
-18. Numbers
-19. Dark Mode
-20. Filters
-21. Dad Jokes
-22. Products
-23. Random User
-24. Cocktails
-25. Slider
-26. Stripe Submenus
-27. Pagination
-28. Wikipedia
-29. Comfy Sloth
+Happy coding! 🚀
